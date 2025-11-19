@@ -16,7 +16,7 @@ public class Main {
 
 
         System.out.println(" Ф.И.О. сотрудника для отчета - " + fullName.toUpperCase());
-        System.out.println("");
+        System.out.println(" ");
 
         System.out.println(" Задание №3 ");
 
